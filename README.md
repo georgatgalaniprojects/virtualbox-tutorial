@@ -39,10 +39,22 @@ Give your new Virtual Machine a name, choose your iso, type Windows and the Wind
 Step 4. 
 
 Next you have to reserve a certain amount of RAM to the VM. For Windows 10 or higher I would recommend at least 4Gb or better 8Gb as a minimum. 
-You can also decide on the number of core you want to make available to the VM. 
+You can also decide on the number of cores you want to make available to the VM. 
 The EFI Option you can leave checked. 
 
 Stepe 5.
 
-Next you can choose the amount of harddisk to be available to the VM. I recommend at least 20gb. More is better, because it is difficult to adjust the disk space later. 
+Next you can choose the amount of harddisk to be available to the VM. I recommend at least 20gb. More is better, because it is difficult to adjust the disk space later.
+
+Step 6. 
+
+Now you should have a good starting point for tweaking the VM. One last important configuration is changing the networking from NAT to briged. 
+Select the Vm. Go to Change -> Networking  and select briged from the network adapater settings. 
+
+Step 7.
+
+Start the VM. The Windows Installtion should start atuomatically. After you have finished the Installtion Windows, one last recommended Step is to install the gust additions from Devices -> Insert Guest additions. This will give the VM much more performance and a lot of extra features. 
+
+![Bildschirmfoto 2023-10-26 um 15 27 28](https://github.com/georgatgalaniprojects/virtualbox-tutorial/assets/48205769/95c657ec-c669-4f29-9834-51f5bef90a51)
+
 
