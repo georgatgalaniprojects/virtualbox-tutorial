@@ -10,9 +10,9 @@ Requirements:
   or
   the newest version as of this writing [VirtualBox-7.0.12 (Intel)](https://download.virtualbox.org/virtualbox/7.0.12/VirtualBox-7.0.12-159484-OSX.dmg).
   
-  There is a Beta version for Apple Silicon with limited support available here [Apple Silicon Version](https://download.virtualbox.org/virtualbox/7.0.8/VirtualBox-7.0.8_BETA4-156879-macOSArm64.dmg)
+  There is a Beta version for Apple Silicon with limited support available here [Apple Silicon Version](https://download.virtualbox.org/virtualbox/7.0.8/VirtualBox-7.0.8_BETA4-156879-macOSArm64.dmg).
 
-* Windows license, either as an .iso file or on a phyisical media like an usb stick.
+* Windows license, either as an .iso file or on a phyisical media like an usb thumb drive.
 
     You can download a Windows 10 iso here 
     [Windows 10](https://www.microsoft.com/de-de/software-download/windows10ISO)
