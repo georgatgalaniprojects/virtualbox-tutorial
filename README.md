@@ -29,3 +29,20 @@ Step 2.
 Run Virtualbox. Choose File -> New.
 
 ![Bildschirmfoto 2023-10-26 um 15 03 15](https://github.com/georgatgalaniprojects/virtualbox-tutorial/assets/48205769/77ffba99-d2d4-4670-bc34-84e4856d9a08)
+
+Step 3. 
+
+Give your new Virtual Machine a name, choose your iso, type Windows and the Windows version depending on what Version of Windows your iso is.
+
+![Bildschirmfoto 2023-10-26 um 15 03 50](https://github.com/georgatgalaniprojects/virtualbox-tutorial/assets/48205769/3f0faffa-e22d-4c7b-9902-739e3855775b)
+
+Step 4. 
+
+Next you have to reserve a certain amount of RAM to the VM. For Windows 10 or higher I would recommend at least 4Gb or better 8Gb as a minimum. 
+You can also decide on the number of core you want to make available to the VM. 
+The EFI Option you can leave checked. 
+
+Stepe 5.
+
+Next you can choose the amount of harddisk to be available to the VM. I recommend at least 20gb. More is better, because it is difficult to adjust the disk space later. 
+
