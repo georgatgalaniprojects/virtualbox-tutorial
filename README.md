@@ -17,3 +17,15 @@ You can download a Windows 10 iso here
 
 or a Windows 11 iso here 
 [Windows 11](https://www.microsoft.com/de-de/software-download/windows11)
+
+
+Step 1. 
+
+Run the Virtualbox installer.
+After the installation you will need to restart your Mac. 
+
+Step 2.
+
+Run Virtualbox. Choose File -> New.
+
+![Bildschirmfoto 2023-10-26 um 15 03 15](https://github.com/georgatgalaniprojects/virtualbox-tutorial/assets/48205769/77ffba99-d2d4-4670-bc34-84e4856d9a08)
