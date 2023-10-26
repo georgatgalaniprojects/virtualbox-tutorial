@@ -8,8 +8,9 @@ Requirements:
 
   Either the newest Version available from [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
   or
-  the newest version as of this writing [VirtualBox-7.0.12 (Intel)](https://download.virtualbox.org/virtualbox/7.0.12/VirtualBox-7.0.12-159484-OSX.dmg)
-  There is a Beta version for Apple Silicon with limited support here [Apple Silicon Version](https://download.virtualbox.org/virtualbox/7.0.8/VirtualBox-7.0.8_BETA4-156879-macOSArm64.dmg)
+  the newest version as of this writing [VirtualBox-7.0.12 (Intel)](https://download.virtualbox.org/virtualbox/7.0.12/VirtualBox-7.0.12-159484-OSX.dmg).
+  
+  There is a Beta version for Apple Silicon with limited support available here [Apple Silicon Version](https://download.virtualbox.org/virtualbox/7.0.8/VirtualBox-7.0.8_BETA4-156879-macOSArm64.dmg)
 
 * Windows license, either as an .iso file or on a phyisical media like an usb stick.
 
