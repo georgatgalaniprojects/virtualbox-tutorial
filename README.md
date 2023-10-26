@@ -12,11 +12,11 @@ Requirements:
 
 * Windows license, either as an .iso file or on a phyisical media like an usb stick.
 
-You can download a Windows 10 iso here 
-[Windows 10](https://www.microsoft.com/de-de/software-download/windows10ISO)
-
-or a Windows 11 iso here 
-[Windows 11](https://www.microsoft.com/de-de/software-download/windows11)
+    You can download a Windows 10 iso here 
+    [Windows 10](https://www.microsoft.com/de-de/software-download/windows10ISO)
+    
+    or a Windows 11 iso here 
+    [Windows 11](https://www.microsoft.com/de-de/software-download/windows11)
 
 
 Step 1. 
@@ -53,7 +53,7 @@ Select the Vm. Go to Change -> Networking  and select briged from the network ad
 
 Step 7.
 
-Start the VM. The Windows Installation should start automatically. After you have finished the Installation Windows, one last recommended Step is to install the gust additions from Devices -> Insert Guest additions. This will give the VM much more performance and a lot of extra features. 
+Start the VM. The Windows Installation should start automatically. After you have finished the Windows installation, one last recommended Step is to install the gust additions from Devices -> Insert Guest Additions. This will give the VM much better performance and a lot of extra features. 
 
 ![Bildschirmfoto 2023-10-26 um 15 27 28](https://github.com/georgatgalaniprojects/virtualbox-tutorial/assets/48205769/95c657ec-c669-4f29-9834-51f5bef90a51)
 
